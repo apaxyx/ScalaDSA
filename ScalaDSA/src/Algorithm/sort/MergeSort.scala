@@ -1,4 +1,4 @@
-package sort
+package Algorithm.sort
 
 /**
  * 合并排序，递归实现，分治思想，先分，再排，再合，合的时候再根据大小选择插入临时数组
