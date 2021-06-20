@@ -1,4 +1,4 @@
-package Algorithm.sort
+package sort
 
 import scala.collection.mutable.ArrayBuffer
 import util.control.Breaks._
