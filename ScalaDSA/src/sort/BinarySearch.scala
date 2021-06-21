@@ -1,7 +1,7 @@
-package Algorithm.sort
+package sort
 
 import scala.collection.mutable.ArrayBuffer
-import util.control.Breaks._
+import scala.util.control.Breaks.{break, breakable}
 
 /**
  * 二分查找

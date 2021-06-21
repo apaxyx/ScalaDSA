@@ -1,6 +1,6 @@
-package Algorithm.sort
+package sort
 
-import util.control.Breaks._
+import scala.util.control.Breaks.{break, breakable}
 
 object QuickSort {
     def quickSort(left: Int, right: Int, arr: Array[Int]): Unit = {

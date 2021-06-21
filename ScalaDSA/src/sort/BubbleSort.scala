@@ -1,4 +1,4 @@
-package Algorithm.sort
+package sort
 
 object BubbleSort {
 
