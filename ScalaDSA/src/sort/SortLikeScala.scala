@@ -64,8 +64,6 @@ object SortLikeScala {
         //TODO 快速排序测试
         val list3 = List(3, 12, 43, 23, 7, 1, 2, 0)
         println("快排----->" + quickSort(list3))
-
-
     }
 
 }
