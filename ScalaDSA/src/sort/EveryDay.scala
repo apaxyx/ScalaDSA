@@ -107,8 +107,8 @@ object EveryDay {
                 while(true){
                     if(temp < 0 || arr(temp) != findVal)    break()
                     if(arr(temp) == findVal)                resArr.append(temp)
+                    temp -= 1
                 }
-                temp -= 1
             }
 
             resArr.append(midIndex)
